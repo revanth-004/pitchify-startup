@@ -165,6 +165,7 @@ const StartupForm = () => {
 
         {errors.pitch && <p className="startup-form_error">{errors.pitch}</p>}
       </div>
+      
 
       <Button
         type="submit"
